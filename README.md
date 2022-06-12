@@ -1,5 +1,4 @@
 
-<!--Shree KRISHNAya Namaha-->
 <!-- Colorlib Jackson template
 https://colorlib.com/wp/template/jackson/ -->
 <!-- W3 Schools / W3CSS / Nature Portfolio Template
@@ -9,7 +8,7 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Nagabhushan S N - Homepage</title>
+    <title>Arthi S - Homepage</title>
     <link rel="stylesheet" href="res/styles/w3.css">
     <link rel="stylesheet" href="res/styles/common.css">
     <link rel="stylesheet" href="res/styles/navigation.css">
@@ -21,9 +20,9 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&
     <script src="home/res/scripts/home.js"></script>
 
     <meta charset="UTF-8">
-    <meta name="description" content="Homepage of Nagabhushan S N">
-    <meta name="keywords" content="Nagabhushan, Webpage, Homepage, Personal">
-    <meta name="author" content="Nagabhushan S N">
+    <meta name="description" content="Homepage of Arthi S">
+    <meta name="keywords" content="Arthi, Webpage, Homepage, Personal">
+    <meta name="author" content="Arthi S">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
@@ -34,7 +33,7 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&
         <i onclick="w3_close()" class="w3-hide-large w3-right w3-xlarge w3-padding w3-hover-grey" title="close menu">
             <i class="fas fa-times"></i>
         </i>
-        <h4><b>Nagabhushan S N</b></h4>
+        <h4><b>Arthi S</b></h4>
     </div>
     <div class="w3-bar-block">
         <a href="index.html" class="w3-bar-item w3-button selected-page">
@@ -43,50 +42,20 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&
         <a href="research.html" class="w3-bar-item w3-button">
             <i class="fa fa-flask" style="width: 25px"></i> Research
         </a>
-        <a href="publications.html" class="w3-bar-item w3-button">
-            <i class="fa fa-file-alt" style="width: 25px"></i> Publications
-        </a>
-        <a href="projects.html" class="w3-bar-item w3-button">
-            <i class="fa fa-project-diagram" style="width: 25px"></i> Projects
-        </a>
         <a href="work-experience.html" class="w3-bar-item w3-button">
             <i class="fa fa-briefcase" style="width: 25px"></i> Work Experience
-        </a>
-        <a href="miscellaneous.html" class="w3-bar-item w3-button">
-            <i class="fa fa-ellipsis-h" style="width: 25px"></i> Miscellaneous
-        </a>
-        <a href="project-ideas.html" class="w3-bar-item w3-button">
-            <i class="fas fa-lightbulb" style="width: 25px"></i> Project Ideas
         </a>
         <a href="res/documents/SNB_CV.pdf" target="_blank" class="w3-bar-item w3-button" title="Download CV">
             CV
         </a>
-        <a href="res/documents/SNB_Resume.pdf" target="_blank" class="w3-bar-item w3-button" title="Download Resume">
-            Resume
-        </a>
-    </div>
+            </div>
     <div class="w3-panel w3-large">
-        <a href="https://linkedin.com/in/nagabhushan-s-n-52391a68" target="_blank"><i
+        <a href="https://www.linkedin.com/in/arthi-s-0b836779" target="_blank"><i
                 class="fab fa-linkedin color-linkedin w3-hover-opacity"></i></a> &ensp;
-        <a href="https://github.com/NagabhushanSN95" target="_blank"><i
+        <a href="https://github.com/Arthi314" target="_blank"><i
                 class="fab fa-github w3-hover-opacity"></i></a> &ensp;
-        <a href="https://stackexchange.com/users/4060371/nagabhushan-s-n?tab=accounts" target="_blank"><img
-                class="fa w3-hover-opacity" src="res/images/Icon_StackExchange.svg" alt="Stack Exchange"
-                style="width: 25px"/></a> &ensp;
-        <a href="https://scholar.google.com/citations?hl=en&user=kFbFZHIAAAAJ" target="_blank"><i
-                class="ai ai-google-scholar color-google-scholar w3-hover-opacity"></i></a> &ensp;
-        <a href="https://orcid.org/0000-0002-2266-759X" target="_blank"><i
-                class="ai ai-orcid color-orcid w3-hover-opacity"></i></a>
-    </div>
-    <div class="w3-panel w3-large">
-        <a href="https://publons.com/researcher/3835716/nagabhushan-s-n/" target="_blank"><i
-                class="ai ai-publons color-publons w3-hover-opacity"></i></a> &ensp;
-        <a href="https://www.semanticscholar.org/author/Nagabhushan%60-S-N/1666222692" target="_blank"><i
-                class="ai ai-semantic-scholar w3-hover-opacity"></i></a> &ensp;
-        <a href="https://dblp.org/pid/264/5930" target="_blank"><i
-                class="ai ai-dblp w3-hover-opacity"></i></a> &ensp;
-    </div>
-</nav>
+         </div>
+    </nav>
 
 <!-- Overlay effect when opening sidebar on small screens -->
 <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer"
@@ -98,15 +67,11 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&
     <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i
             class="fa fa-bars"></i></span>
     <div class="w3-container" style="padding-top: 25px">
-        <h1 class="page-title">Nagabhushan S N's Homepage</h1>
+        <h1 class="page-title">Arthi S's Homepage</h1>
     </div>
-<!--    <div class="w3-container w3-text-blue w3-center" style="width: 90%; margin-left: 5%; margin-bottom: 5%">-->
-<!--        <h4>This site is still under construction. For now, please visit <a-->
-<!--                href="https://sites.google.com/site/nagabhushansn95">here</a></h4>-->
-<!--    </div>-->
     <div class="w3-cell-row" style="width: 80%; margin-left: 10%; margin-right: 10%; margin-top: 50px">
         <div class="w3-container w3-cell w3-mobile" style="width: 35%">
-            <img src="home/res/images/Nagabhushan_Photo.jpg" alt="Profile Photo" width="250" height="275">
+            <img src="blob/main/IMG-20200929-WA0002-01.jpeg" alt="Profile Photo" width="250" height="275">
         </div>
 
         <div class="w3-container w3-cell w3-mobile" style="width: 65%">
@@ -118,27 +83,18 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&
             Email:
             <button id="email" onclick="displayEmail()">Click here to reveal email id</button>
             <br>
-            Lab: Visual Information Processing Lab (SP 2.25) <br> <br>
+            Lab: Signal Processing Lab (SP 203) <br> <br>
 
-            I completed my B.E. in Electronics and Communications from P.E.S. Institute of Technology in 2016.
-            I worked as a Software Engineer in Cisco Systems India Pvt. Ltd. for 2 years (2016-18).
-            In 2018, I joined IISc and I am currently pursuing Direct PhD in ECE Dept with
-            <a href="https://ece.iisc.ac.in/~rajivs/#/" target="_blank">Dr. Rajiv Soundararajan</a>.
-            My current interests are in the areas of Image and Video Signal Processing, Machine Learning and Computer
-            Vision. <br>
+            I have done my undergraduate in Electronics and Communication Engineering at College of Engineering Guindy, Anna University, Chennai in 2015.
+            I completed my masters in Communication systems from IIT Madras in 2017.
+            I worked as a RF Engineer in Qualcomm India Pvt. Ltd. for 3 years (2017-2020).
+            In 2020, I joined IISc and I am currently pursuing Ph.D. in ECE Dept with
+            <a href="https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html" target="_blank">Dr. Neelesh B Mehta</a>.
+            My current interests are in next generation wireless networks <br>
         </div>
     </div>
     <hr class="w3-dark-gray" style="height: 1px; margin-left: 5%; width: 90%">
 
-    <div class="w3-container" style="margin-left: 5%; width: 90%" title="News">
-        <h4>News</h4>
-        <ul>
-            <li> 2022-Jan: IISc VEED database for temporal view synthesis released.
-                <a href="publications/2021/ivp.html" target="_blank">Project Page</a></li>
-            <li> 2020-May: IISc PVQA database for quality assessment of predicted videos released.
-                <a href="publications/2020/pvqa.html" target="_blank">Project Page</a></li>
-        </ul>
-    </div>
 </div>
 <!-- Page content - End -->
 
