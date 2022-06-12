@@ -5,7 +5,6 @@ https://colorlib.com/wp/template/jackson/ -->
 https://www.w3schools.com/w3css/tryw3css_templates_portfolio.htm
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&stacked=h -->
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Arthi S - Homepage</title>
